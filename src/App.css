@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+input{
+  padding: 12px 20px;
+  box-sizing: border-box;
+  border-color:#61dafb;
+  border-width: 2px;
+}
+
+button{
+  padding: 6px 20px;
+  margin-left: 10px;
+  box-sizing: border-box;
+  background-color: #61dafb;
+  font-size: calc(10px + 2vmin);
+}
+
